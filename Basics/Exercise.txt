@@ -1,0 +1,7 @@
+Terminal is a way to navigate through everyones own computer. We can use terminal to access files, installing programs, and modify programs. Software developers use this because it is faster. 
+
+What is the major difference between git and GitHub? Git is a open sourced software by linux, while Microsoft owns GitHub.
+
+ Why do we use GitHub? GitHub lets me and others work together on projects from anywhere.
+
+
